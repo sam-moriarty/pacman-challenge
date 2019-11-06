@@ -1,0 +1,28 @@
+{
+  "name": "Code-Challenge-1",
+  "version": "1.0.0",
+  "description": "Code problem details:",
+  "main": "pacman.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ie/Code-Challenge-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ie/Code-Challenge-1/issues"
+  },
+  "homepage": "https://github.com/ie/Code-Challenge-1#readme"
+}
